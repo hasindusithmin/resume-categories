@@ -16,7 +16,7 @@ export default function Others() {
         <>
             <Helmet>
                 <title>Hasindu | Others</title>
-                <meta name="description" content="Hasindu Sithmin's others projects" />
+                <meta name="description" content="Hasindu Sithmin's other projects" />
             </Helmet>
             <div className="w3-content w3-section w3-padding">
                 <div className="w3-center w3-padding-large">
